@@ -1,0 +1,24 @@
+body{
+    font-family: "Fira Sans Condensed", serif;
+}
+
+h1{
+    font-family: "PT Serif", serif;
+    
+}
+
+h2{
+    font-family: "Slabo 27px", serif";
+}
+
+.font-pairing-PT {
+    font-family: "PT Serif", serif;
+}
+
+.font-pairing-Fira {
+    font-family: "Fira Sans Condensed", serif;
+}
+
+.font-pairing-Slabo {
+    font-family: "Slabo 27px", serif;
+}

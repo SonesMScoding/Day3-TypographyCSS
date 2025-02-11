@@ -1,0 +1,32 @@
+body{
+    font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  text-align: justify;
+}
+
+.subtitle{
+    font-size: .7em;
+    text-align: left;
+}
+
+
+/* Mobile Styles (320px — 480px) */
+@media (max-width: 480px) {
+    body{
+        letter-spacing: 2px;
+        line-height: 120%;
+    }
+    h1 {
+        font-size: 1.3rem;
+        line-height: 140%;
+    }
+    h2 {
+        font-size: 1.1rem;
+    }
+    h3 {
+        font-size: 1rem;
+    }
+    p {
+        font-size: .6rem;
+    }
+}

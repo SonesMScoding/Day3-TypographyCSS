@@ -1,0 +1,27 @@
+body{
+    font-family: "Raleway", serif;
+}
+
+.thin h1, .thin p{
+    font-weight: 100;
+}
+ 
+.light h1, .light p{
+    font-weight: 300;
+}
+
+.normal h1, .normal p{
+    font-weight: 400;
+}
+
+.medium h1, .medium p{
+    font-weight: 500;
+}
+
+.bold h1, .bold p{
+    font-weight: 700;
+}
+
+.bolder h1, .bolder p{
+    font-weight: 900;
+}
